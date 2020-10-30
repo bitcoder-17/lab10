@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 
 
-    cout << "Lab 10" << endl;
+    cout << "wtf" << endl;
 
     return 0;
 }
